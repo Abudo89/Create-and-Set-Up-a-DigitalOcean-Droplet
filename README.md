@@ -11,7 +11,6 @@ Either add your SSH key (recommended) or choose a root password.
 Click “Create Droplet”.
 2. Connect to Your Droplet
 On your local machine, open the terminal and connect via SSH:
-
 ssh root@YOUR_DROPLET_IP
 (Replace YOUR_DROPLET_IP with the actual IP shown in the DigitalOcean dashboard.)
 
